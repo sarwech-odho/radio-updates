@@ -1,20 +1,5 @@
 {
   "liveRadioURL": "https://cast6.asurahosting.com/proxy/voslondo/stream",
   "news_updates": [
-    
-    {
-      "date_time": "03-01-2014 05:13pm (PST)",
-      "title": "Pakistan Election 2024",
-      "content": "Ony in the time of election campaign, Politician visits to the public for earning votes from them",
-      "IsSindhiContent": false
-    },
-    
-    {
-      "date_time": "03-01-2014 05:13pm (PST)",
-      "title": "Pakistan Election 2024",
-      "content": "Ony in the time of election campaign, Politician visits to the public for earning votes from them",
-      "IsSindhiContent": true
-    }
-
   ]
 }
